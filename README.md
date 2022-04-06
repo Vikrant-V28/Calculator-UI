@@ -1,12 +1,11 @@
-# Calculator-UI
-
 <div align="center">
-  <img height="60" src="https://user-images.githubusercontent.com/85709371/153715643-d0d2a5b8-3be9-41bc-9885-de1dc5808a20.png">
+  <img height="60" src="">
   <img height="55" src="https://user-images.githubusercontent.com/85709371/160286209-622d2990-13e6-46a3-9877-2a0b73bb386d.png">
 </div>
 
-# Contact Page
-The simple code to create `Contact Page UI` using HTML & CSS.
+# Calculator-UI
+
+The simple code to create `Calculator-UI` using HTML & CSS.
 
 ### Prerequisites
 - HTML
