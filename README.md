@@ -5,7 +5,7 @@
 
 # Calculator-UI
 
-The simple code to create `Calculator-UI` using HTML & CSS.
+The simple code to create `Calculator-UI` using HTML, CSS & JavaScript.
 
 ### Prerequisites
 - HTML
