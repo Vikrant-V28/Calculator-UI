@@ -10,6 +10,7 @@ The simple code to create `Calculator-UI` using HTML & CSS.
 ### Prerequisites
 - HTML
 - CSS
+- JavaScript
 - SCSS
 
 ### Output Screenshot
