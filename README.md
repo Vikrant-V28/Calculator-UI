@@ -1,5 +1,5 @@
 # Calculator-UI
-<!-- Visit <a href="https://thevkrant.github.io/Calculator-UI/">Here</a> -->
+<!-- Visit <a href="">Here</a> -->
 
 ![Screenshot (171)](https://user-images.githubusercontent.com/85709371/148979982-8e8bf184-7c3c-4ef4-8185-e86b6212a9fa.png)
 
@@ -23,7 +23,7 @@ The simple code to create `Contact Page UI` using HTML & CSS.
   </p>
 </details>
 
-<!-- Visit <a href="https://thevkrant.github.io/Contact-page/">Here</a> -->
+<!-- Visit <a href="https://thevkrant.github.io/Calculator-UI/">Here</a> -->
 
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
