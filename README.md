@@ -1,6 +1,6 @@
 # Calculator-UI
 
-![Screenshot (171)](https://user-images.githubusercontent.com/85709371/148979982-8e8bf184-7c3c-4ef4-8185-e86b6212a9fa.png)
+![Screenshot (171)]()
 
 <div align="center">
   <img height="60" src="https://user-images.githubusercontent.com/85709371/153715643-d0d2a5b8-3be9-41bc-9885-de1dc5808a20.png">
